@@ -75,7 +75,7 @@ if __name__ == "__main__":
     from pprint import pprint
 
     pprint(result)
-
+    
 # {'action_counts': {'login': 2, 'logout': 2, 'submit': 1, 'view': 2},
 #  'average_session_time': 160.0,
 #  'most_active_user': 'u002',
